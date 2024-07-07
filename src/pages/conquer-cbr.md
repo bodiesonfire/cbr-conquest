@@ -14,7 +14,7 @@ Here you'll find all the lists for Conquer Canberra
 |---|---|
 | Alberto | [Dweghom](/cc/alberto)|
 | Alex Selth | [Dweghom](../../static/docs/cc/alex-selth.pdf) |
-| Dan Sutherland | [Hundred Kingdom](/cc/dan-sutherland)|
+| Dan Sutherland | [Hundred Kingdom](../../static/docs/cc/dan-sutherland.pdf)|
 | Daniel Hua| [Old Dominion](/cc/daniel-hua)|
 | Dave Hurley | [Old Dominion](../../static/docs/cc/dave-hurley.pdf) | 
 | David Fizzell | [Old Dominion](../../static/docs/cc/david-fizzell.pdf) | 

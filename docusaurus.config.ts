@@ -3,9 +3,9 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'My Site',
+  title: 'Canberra Conquest',
   tagline: 'Conquest in Canberra',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon_c.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -46,12 +46,12 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/CONQUEST_C.png',
     navbar: {
       title: 'Canberra Conquest',
       logo: {
-        alt: 'cnaberra conquest',
-        src: 'img/logo.svg',
+        alt: 'canberra conquest',
+        src: 'img/favicon_c.png',
       },
       items: [
         {to: '/conquer-cbr', label: 'Conquer Canberra', position: 'left'}
