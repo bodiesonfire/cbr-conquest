@@ -14,3 +14,15 @@ hola:
   label: Hola
   permalink: /hola
   description: Hola tag description
+conquest: 
+  label: Conquest
+  permalink: /conquest
+  description: Conquest
+events: 
+  label: Events
+  permalink: /events
+  description: Events
+cwe:
+  label: Community World Event
+  permalink: /cwe
+  description: Community World Event
